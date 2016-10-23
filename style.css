@@ -1,0 +1,17 @@
+.counter_value,
+.counter_button {
+    display: inline-block;
+    width: 30%;
+}
+
+.counter_header {
+    margin-bottom: 50px;
+    border: 4px solid lightgreen;
+    text-align: center;
+    text-transform: uppercase;
+    margin-top: 20px;
+}
+
+.counter_block {
+    text-align: center;
+}
